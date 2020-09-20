@@ -1,0 +1,6 @@
+function merge2String(s1, s2) {
+    s1 = "abc"
+    s2 = "123"
+
+    var res = s1.concat(s2)
+    console.log(res)
